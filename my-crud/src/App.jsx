@@ -1,10 +1,12 @@
 import React from 'react';
 
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
-import Post from './pages/post'
-import Feed from './pages/feed'
-import LerMais from './pages/lerMais'
-import Edit from './pages/edit'
+import Post from './pages/Post/Post'
+import Feed from './pages/Feed/Feed'
+import LerMais from './pages/LerMais/LerMais'
+import Edit from './pages/Edit/Edit'
+
+
 
 
 function App() {

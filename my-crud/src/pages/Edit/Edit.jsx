@@ -1,9 +1,11 @@
 import React from 'react';
 
+import Header from '../../components/Header/Header'
+
 function Edit () {
     return (
         <div> 
-            <h1> Page edit</h1>
+            <Header />
         </div>
     )
 }
