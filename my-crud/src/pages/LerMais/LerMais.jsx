@@ -1,13 +1,12 @@
 import React from 'react';
 
 
-import Header from '../../components/Header/Header'
+import Header from '../../components/Header/Header';
 
 function LerMais() {
     return (
         <div>
             <Header />
-
             <main>
                 <div className="cards">
                     <div className="card">
