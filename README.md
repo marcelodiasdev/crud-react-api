@@ -1,2 +1,2 @@
 ## crud-react-api
-Consumindo Api com ReactJS
+Consumindo Api com React
